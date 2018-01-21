@@ -1,0 +1,5 @@
+{
+    "C": 65,
+    "penalty": "l1",
+    "random_state": 42
+}
